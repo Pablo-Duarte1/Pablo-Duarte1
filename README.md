@@ -6,7 +6,7 @@
 
 ### 💼 Sobre mim
 
-- 🔭 **Estagiário em DevOps**
+- 🔭 **Estagiário em DevOps na MW Soluções**
 - 🌱 **Atualmente estudando Python**
 - 📫 **Email:** [pabloduarte.rn@gmail.com](mailto:pabloduarte.rn@gmail.com)
 - 💼 **LinkedIn:** [pablo-matheus-20199b262](https://www.linkedin.com/in/pablo-matheus-20199b262/)
