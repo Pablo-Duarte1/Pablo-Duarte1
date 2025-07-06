@@ -10,7 +10,7 @@
 - 🌱 **Atualmente estudando Python**
 - 📫 **Email:** [pabloduarte.rn@gmail.com](mailto:pabloduarte.rn@gmail.com)
 - 💼 **LinkedIn:** [pablo-matheus-20199b262](https://www.linkedin.com/in/pablo-matheus-20199b262/)
-   💼 **Curriculo Lattes:** [Pablo Duarte](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1519781J7)
+- 🛄 **Curriculo Lattes:** [Pablo Duarte](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1519781J7)
 - 🎮 **Discord:** `.head_.`
 
 ---
