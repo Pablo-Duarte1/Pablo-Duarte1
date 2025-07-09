@@ -7,7 +7,7 @@
 ### 💼 Sobre mim
 
 - 🔭 **Estagiário em DevOps na MW Soluções**
-- 🌱 **Atualmente estudando Python**
+- 📕 **Atualmente estudando Python**
 - 📫 **Email:** [pabloduarte.rn@gmail.com](mailto:pabloduarte.rn@gmail.com)
 
 ---
