@@ -9,9 +9,6 @@
 - 🔭 **Estagiário em DevOps na MW Soluções**
 - 🌱 **Atualmente estudando Python**
 - 📫 **Email:** [pabloduarte.rn@gmail.com](mailto:pabloduarte.rn@gmail.com)
-- 💼 **LinkedIn:** [pablo-matheus-20199b262](https://www.linkedin.com/in/pablo-matheus-20199b262/)
-- 🛄 **Curriculo Lattes:** [Pablo Duarte](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1519781J7)
-- 🎮 **Discord:** `.head_.`
 
 ---
 
@@ -34,7 +31,7 @@
 
 ---
 
-### 🔗 Contatos
+### 🔗 Redes sociais e contatos
 
 <p>
   <a href="https://www.linkedin.com/in/pablo-matheus-20199b262/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
@@ -42,5 +39,8 @@
   </a>
   <a href="https://discord.com/users/.head_." target="_blank" rel="noopener noreferrer">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1519781J7" target="_blank" rel="noopener noreferrer">
+    <img alt="Lattes" src="https://img.shields.io/badge/Lattes-014C8A?style=for-the-badge&logo=lattes&logoColor=white" />
   </a>
 </p>
