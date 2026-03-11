@@ -6,7 +6,7 @@
 
 ### 💼 Sobre mim
 
-- 🔭 **Técnico em desenvolvimento júnior na Log Sistema e Técnologia**
+- 🔭 **Técnico em desenvolvimento júnior na Log Sistema e Tecnologia**
 - 📕 **Atualmente estudando Python**
 - 📫 **Email:** [pabloduarte.rn@gmail.com](mailto:pabloduarte.rn@gmail.com)
 
